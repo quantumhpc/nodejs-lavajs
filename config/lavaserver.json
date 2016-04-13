@@ -1,0 +1,13 @@
+{
+        "method"                : "ssh",
+        "ssh_exec"              : "/usr/bin/ssh",
+        "scp_exec"              : "/usr/bin/scp",
+        "username"              : "user",
+        "serverName"            : "lavaserver",
+        "secretAccessKey"       : "/home/user/.ssh/id_rsa",
+        "local_shell"           : "/bin/sh",
+        "local_copy"            : "/bin/cp",
+        "binaries_dir"          : "/usr/local/bin/",
+        "useSharedDir"          : false,
+        "working_dir"           : "/tmp"
+};

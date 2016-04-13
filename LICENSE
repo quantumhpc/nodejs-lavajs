@@ -1,6 +1,9 @@
  ****************************************************************/
  * Lava-JS
- * A nodejs interface with the ressource manager open-lava
+ * A nodejs interface with the ressource manager OpenLava 
+ * 
+ * OpenLava is maintained by the OpenLava project
+ * Last release available : <http://www.openlava.org/>
  * 
  * Copyright (c) 2016 Quantum HPC Inc
  * http://www.quantumhpc.com
